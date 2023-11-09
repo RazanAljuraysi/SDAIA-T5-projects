@@ -1,0 +1,16 @@
+category_name,Product,Price,Currency,id
+fruits ,Watermeldon,30,sr,1
+fruits ,peach,3,sr,2
+fruits ,apple,2,sr,3
+fruits ,orange,2,sr,4
+fruits ,mango,17,sr,5
+Vegetables,lemon,2,sr,1
+Vegetables,celery,8,sr,2
+Vegetables,cucumber,2,sr,3
+Vegetables,lettuce,2,sr,4
+Vegetables,rocket,2,sr,5
+Dairy,milk,7,sr,1
+Dairy,cheese,6,sr,2
+Dairy,double cream,14,sr,3
+Dairy,butter,8,sr,4
+Dairy,yogurt,2,sr,5
