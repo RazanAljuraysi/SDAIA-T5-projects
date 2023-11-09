@@ -1,2 +1,2 @@
 # SDAIA-T5-projects
-This repo showcases diverse projects from my SDAIA t5 bootcamp experience. Reflecting my efforts and learning process, they represent my growth and ongoing commitment to improvement, acknowledging the potential for imperfections.
+This repository serves as a showcase of the diverse projects completed during my experience at the SDAIA t5 bootcamp. Each project reflects my individual effort, demonstrating my journey and learning process. While I've dedicated myself to creating high-quality work, I recognize the possibility of imperfections. These projects represent my growth and ongoing commitment to learning and improvement.
